@@ -1,0 +1,12 @@
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/main/java/com/codeforall/online/javabank/domain/account/AbstractAccount.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/main/java/com/codeforall/online/javabank/Main.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/main/java/com/codeforall/online/javabank/domain/account/SavingsAccount.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/main/java/com/codeforall/online/javabank/domain/account/AccountType.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/main/java/com/codeforall/online/javabank/errors/ErrorMessage.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/main/java/com/codeforall/online/javabank/factories/AccountFactory.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/main/java/com/codeforall/online/javabank/exceptions/JavaBankException.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/main/java/com/codeforall/online/javabank/exceptions/CustomerNotFoundException.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/main/java/com/codeforall/online/javabank/domain/Customer.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/main/java/com/codeforall/online/javabank/domain/Bank.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/main/java/com/codeforall/online/javabank/domain/account/Account.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/main/java/com/codeforall/online/javabank/domain/account/CheckingAccount.java

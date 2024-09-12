@@ -1,0 +1,8 @@
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/test/java/com/codeforall/online/javabank/domain/BankTest.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/test/java/com/codeforall/online/javabank/domain/account/AccountTypeTest.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/test/java/com/codeforall/online/javabank/domain/account/AccountTest.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/test/java/com/codeforall/online/javabank/domain/account/SavingsAccountTest.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/test/java/com/codeforall/online/javabank/domain/account/AbstractAccountTest.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/test/java/com/codeforall/online/javabank/domain/CustomerTest.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/test/java/com/codeforall/online/javabank/factories/AccountFactoryTest.java
+/Users/catarinapestana/Desktop/BankForAll/step-01-testing/skeleton/src/test/java/com/codeforall/online/javabank/domain/account/CheckingAccountTest.java
