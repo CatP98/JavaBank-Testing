@@ -10,17 +10,17 @@ The project follows the standard Maven project layout:
 /skeleton/src/test/java/com/codeforall/online/javabank
 
 
-## Languages
+### Languages
 
 - **Java**: The primary programming language used for development.
 
-## Frameworks and Libraries
+### Frameworks and Libraries
 
 - **JUnit**: A testing framework used for writing and running tests.
 - **Mockito**: A mocking framework used for creating mock objects in tests.
 - **JUnitParams**: A parameterized testing library for JUnit, used to run the same test with different parameters.
 
-## Tools
+### Tools
 
 - **Git**: Version control system used for tracking changes.
 - **Maven**: Build automation tool used for managing dependencies and building the project.
